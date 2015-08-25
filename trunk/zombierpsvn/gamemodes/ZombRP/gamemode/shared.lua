@@ -1,0 +1,10 @@
+team.SetUp( 1, "Survivor", Color( 20, 150, 20, 255 ) );
+team.SetUp( 2, "Police", Color( 25, 25, 170, 255 ) );
+team.SetUp( 3, "Mayor", Color( 150, 20, 20, 255 ) );
+team.SetUp( 4, "BioTec", Color( 200, 45, 45, 255 ) );
+team.SetUp( 5, "#Nonexistant", Color( 25, 25, 25, 255 ) );
+team.SetUp( 6, "Trader", Color( 255, 140, 0, 255 ) );
+team.SetUp( 7, "Doctor", Color( 47, 79, 79, 255 ) );
+team.SetUp( 8, "Scientist", Color( 238, 99, 99, 255 ) );
+team.SetUp( 9, "Military", Color( 20, 20, 255, 255 ) );
+team.SetUp( 10, "Zombified", Color( 200, 45, 45, 255 ) );

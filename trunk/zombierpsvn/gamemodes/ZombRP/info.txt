@@ -1,0 +1,13 @@
+"Gamemode"
+{
+	"name"		"ZombieRP 4.00B"
+	"version"		"4.00 Beta"
+
+	"author_name"	"Gmoder_rus"
+	"author_email"	"pwngmoder@gmail.com"
+	"author_url"	""
+	
+	"icon"		""
+	"info"		""
+	"hide"		"0"
+}

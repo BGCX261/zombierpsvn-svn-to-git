@@ -1,0 +1,13 @@
+"AddonInfo"
+{
+	"name"		"Weapon Stripper SENT"
+	"version"	"1"
+	"up_date"	""
+	"author_name"	"Catdaemon"
+	"author_email"	"e"
+	"author_url"	"www.meteornet.net"
+	
+	"info"		""
+	"override"	"0"
+
+}

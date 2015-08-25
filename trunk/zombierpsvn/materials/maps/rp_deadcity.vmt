@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture"		"maps/rp_deadcity"
+	"$ignorez"		1
+	"$vertexcolor" 		1
+	"$vertexalpha" 		1
+}
